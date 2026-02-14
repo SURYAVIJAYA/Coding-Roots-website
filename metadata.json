@@ -1,0 +1,8 @@
+
+{
+  "name": "Coding Roots - Premium Corporate IT Solutions",
+  "description": "A high-end, multi-page corporate website for Coding Roots, featuring modern UI/UX, smooth animations, and comprehensive service listings for IT and educational courses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
